@@ -1,0 +1,254 @@
+[
+  {
+    "title": "Podcasts",
+    "img": "https://i.scdn.co/image/ab6765630000ba8a2b41fc062049680d64487588"
+  },
+  {
+    "title": "Live Events",
+    "img": "https://concerts.spotifycdn.com/images/live-events_category-image.jpg"
+  },
+  {
+    "title": "Made For You",
+    "img": "https://t.scdn.co/images/ea364e99656e46a096ea1df50f581efe"
+  },
+  {
+    "title": "New releases",
+    "img": "https://i.scdn.co/image/ab67706f000000027ea4d505212b9de1f72c5112"
+  },
+  {
+    "title": "Pop",
+    "img": "https://i.scdn.co/image/ab67fb8200005cafa862ab80dd85682b37c4e768"
+  },
+  {
+    "title": "Hip-Hop",
+    "img": "https://i.scdn.co/image/ab67fb8200005caf7e11c8413dc33c00740579c1"
+  },
+  {
+    "title": "Mood",
+    "img": "https://i.scdn.co/image/ab67fb8200005caf271f9d895003c5f5561c1354"
+  },
+  {
+    "title": "Ramadan",
+    "img": "https://i.scdn.co/image/ab67fb8200005caf433b1d3680909c5f912d5780"
+  },
+  {
+    "title": "Charts",
+    "img": "https://charts-images.scdn.co/assets/locale_en/regional/weekly/region_global_default.jpg"
+  },
+  {
+    "title": "Trending",
+    "img": "https://i.scdn.co/image/ab67fb8200005caf1867113f5218598847550acd"
+  },
+  {
+    "title": "Dance/Electronic",
+    "img": "https://i.scdn.co/image/ab67fb8200005cafdfdaac1cf9574a196ca25196"
+  },
+  {
+    "title": "Rock",
+    "img": "https://i.scdn.co/image/ab67fb8200005cafae7e69beb88f16969641b53e"
+  },
+  {
+    "title": "Indie",
+    "img": "https://i.scdn.co/image/ab67fb8200005cafa1a252e3a815b65778d8c2aa"
+  },
+  {
+    "title": "Discover",
+    "img": "https://t.scdn.co/images/d0fb2ab104dc4846bdc56d72b0b0d785.jpeg"
+  },
+  {
+    "title": "Workout",
+    "img": "https://i.scdn.co/image/ab67706f000000029249b35f23fb596b6f006a15"
+  },
+  {
+    "title": "Country",
+    "img": "https://i.scdn.co/image/ab67fb8200005cafc0d2222b4c6441930e1a386e"
+  },
+  {
+    "title": "R&B",
+    "img": "https://i.scdn.co/image/ab67fb8200005cafbe6a6e705e1a71117c2d0c2c"
+  },
+  {
+    "title": "K-pop",
+    "img": "https://i.scdn.co/image/ab67fb8200005caf013ee3c983e6f60bf28bad5a"
+  },
+  {
+    "title": "Chill",
+    "img": "https://i.scdn.co/image/ab67fb8200005caf47e942f5bea637f4f4760170"
+  },
+  {
+    "title": "Sleep",
+    "img": "https://i.scdn.co/image/ab67706f00000002b70e0223f544b1faa2e95ed0"
+  },
+  {
+    "title": "Party",
+    "img": "https://i.scdn.co/image/ab67fb8200005cafcbf80f8ea695536eace4fd2c"
+  },
+  {
+    "title": "At Home",
+    "img": "https://i.scdn.co/image/ab67fb8200005cafe914a07d20cec7a65e2e5dad"
+  },
+  {
+    "title": "EQUAL",
+    "img": "https://i.scdn.co/image/ab67fb8200005caf9ed6e364e8839210dc4dbff7"
+  },
+  {
+    "title": "Decades",
+    "img": "https://i.scdn.co/image/ab67fb8200005caff005a355830c374754d32868"
+  },
+  {
+    "title": "Love",
+    "img": "https://i.scdn.co/image/ab67fb8200005cafb03c6f8e7efca2ae36f41b31"
+  },
+  {
+    "title": "Metal",
+    "img": "https://i.scdn.co/image/ab67fb8200005cafefa737b67ec51ec989f5a51d"
+  },
+  {
+    "title": "Jazz",
+    "img": "https://i.scdn.co/image/ab67fb8200005cafe289743024639ea8f202364d"
+  },
+  {
+    "title": "Anime",
+    "img": "https://i.scdn.co/image/ab67706f00000002c19c5f13f8b3ff2d73ff00bc"
+  },
+  {
+    "title": "Latin",
+    "img": "https://i.scdn.co/image/ab67fb8200005cafa59f90c077c9f618fd0dde30"
+  },
+  {
+    "title": "Classical",
+    "img": "https://i.scdn.co/image/ab67fb8200005caf12809992dfc5b318892ea07b"
+  },
+  {
+    "title": "Folk & Acoustic",
+    "img": "https://i.scdn.co/image/ab67fb8200005cafcc70a3c2e4c71398708bdc4a"
+  },
+  {
+    "title": "Focus",
+    "img": "https://i.scdn.co/image/ab67706f00000002e4eadd417a05b2546e866934"
+  },
+  {
+    "title": "Soul",
+    "img": "https://i.scdn.co/image/ab67fb8200005cafd82e2c83fe100a89e9cbb2a2"
+  },
+  {
+    "title": "Kids & Family",
+    "img": "https://i.scdn.co/image/ab67fb8200005caf8a04560a209b3f32165ea8a2"
+  },
+  {
+    "title": "Gaming",
+    "img": "https://i.scdn.co/image/ab67fb8200005caf26dd3719e8824756914ae61f"
+  },
+  {
+    "title": "TV & Movies",
+    "img": "https://i.scdn.co/image/ab67fb8200005cafb4c4523336133ec3c7fd1744"
+  },
+  {
+    "title": "Instrumental",
+    "img": "https://i.scdn.co/image/ab67706f000000028ed1a5002b96c2ea882541b2"
+  },
+  {
+    "title": "Punk",
+    "img": "https://i.scdn.co/image/ab67fb8200005cafb2cdd7a95b0a5444aa15cfb5"
+  },
+  {
+    "title": "Ambient",
+    "img": "https://i.scdn.co/image/ab67fb8200005cafa6ee95dc83af715115f40522"
+  },
+  {
+    "title": "Blues",
+    "img": "https://i.scdn.co/image/ab67fb8200005caff22ac5cab318d550b593ffac"
+  },
+  {
+    "title": "Cooking & Dining",
+    "img": "https://i.scdn.co/image/ab67fb8200005cafe53d71d0920a4f1f441d803c"
+  },
+  {
+    "title": "Alternative",
+    "img": "https://i.scdn.co/image/ab67fb8200005cafda178a834e4f87371e9fa543"
+  },
+  {
+    "title": "Travel",
+    "img": "https://i.scdn.co/image/ab67fb8200005caf4b36a2c31432ace68d90c4f2"
+  },
+  {
+    "title": "Caribbean",
+    "img": "https://i.scdn.co/image/ab67fb8200005caf8ba1febbb4f77336b6f9aace"
+  },
+  {
+    "title": "Wellness",
+    "img": "https://i.scdn.co/image/ab67fb8200005caf8dec632effd9735fa8aba06e"
+  },
+  {
+    "title": "Afro",
+    "img": "https://i.scdn.co/image/ab67fb8200005caf04faccb4f5e1828600921f37"
+  },
+  {
+    "title": "Songwriters",
+    "img": "https://i.scdn.co/image/ab67fb8200005cafb973ab1288f74f333e7e2e22"
+  },
+  {
+    "title": "Funk & Disco",
+    "img": "https://i.scdn.co/image/ab67fb8200005cafbb0e4ea229824157eee7467d"
+  },
+  {
+    "title": "Nature & Noise",
+    "img": "https://i.scdn.co/image/ab67fb8200005cafbbf84e26e69a78883118913c"
+  },
+  {
+    "title": "League of Legends",
+    "img": "https://i.scdn.co/image/ab67fb8200005caf2b1ff59a971dd399dea96009"
+  },
+  {
+    "title": "Spotify Singles",
+    "img": "https://i.scdn.co/image/ab67fb8200005caf14030380532b34badbf0a229"
+  },
+  {
+    "title": "Summer",
+    "img": "https://i.scdn.co/image/ab67fb8200005caf097a46192e6bb67e52cdff60"
+  },
+  {
+    "title": "Hindi",
+    "img": "https://i.scdn.co/image/ab67fb8200005cafd6daeecb3d85e27295be6557"
+  },
+  {
+    "title": "Flamenco",
+    "img": "https://i.scdn.co/image/ab67fb8200005caf52358a0c50f81063155a8636"
+  },
+  {
+    "title": "Karaoke",
+    "img": "https://i.scdn.co/image/ab67fb8200005caf8eb00a9a2c00093ccde516c6"
+  },
+  {
+    "title": "Music Festivals",
+    "img": "https://i.scdn.co/image/ab67fb8200005caf1ebf09877636fdc2eb16a1e6"
+  },
+  {
+    "title": "Netflix",
+    "img": "https://i.scdn.co/image/ab67fb8200005caf0b0c71c920d6a745461ada69"
+  },
+  {
+    "title": "Reggae",
+    "img": "https://i.scdn.co/image/ab67fb8200005caf6ba3a99776446ab3b295d2a6"
+  },
+  {
+    "title": "Salsa",
+    "img": "https://i.scdn.co/image/ab67fb8200005caf18079442afeec2a30f3b9502"
+  },
+  {
+    "title": "Samba & Pagode",
+    "img": "https://i.scdn.co/image/ab67fb8200005caf1737cf815e34c15df7b49d86"
+  },
+  {
+    "title": "RADAR",
+    "img": "https://i.scdn.co/image/ab67fb8200005cafdb2aa9c7caea42f900721497"
+  },
+  {
+    "title": "Fresh Finds",
+    "img": "https://i.scdn.co/image/ab67fb8200005cafcc1499bbb8565f490858c2bc"
+  },
+  {
+    "title": "Tastemakers",
+    "img": "https://t.scdn.co/images/37732285a0ff4e24987cdf5c45bdf31f.png"
+  }
+]
