@@ -4,13 +4,13 @@ export function TopBar() {
   const [location] = useLocation()
 
   return (
-    <div data-tauri-drag-region className="flex flex-row px-8 pt-3">
+    <div data-tauri-drag-region className="mb-3 flex flex-row px-8 pt-3">
       <div data-tauri-drag-region className="flex grow flex-row gap-4 ">
         <Link href="/">
           <button
             data-testid="top-bar-back-button"
             aria-label="Go back"
-            className="rounded-full bg-black/70 p-2"
+            className="h-fit rounded-full bg-black/70 p-2"
             aria-expanded="false"
           >
             <svg
@@ -26,11 +26,12 @@ export function TopBar() {
             </svg>
           </button>
         </Link>
+
         <button
           data-testid="top-bar-forward-button"
           aria-label="Go forward"
           disabled
-          className="rounded-full bg-black/70 p-2"
+          className="h-fit rounded-full bg-black/70 p-2"
         >
           <svg
             role="img"
